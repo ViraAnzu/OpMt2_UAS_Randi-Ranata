@@ -116,6 +116,7 @@ streamlit run UAS_StudiKasus.py
 Hasil dari program menunjukkan bahwa algoritma PSO mampu menemukan solusi optimal secara bertahap. Proses konvergensi dapat diamati melalui grafik pergerakan nilai global best (gBest) pada setiap iterasi.
 
 Visualisasi interaktif memudahkan pengguna untuk memahami bagaimana partikel bergerak menuju solusi optimal.
+https://uas-opmt2-studikasus.streamlit.app/
 
 <img width="724" height="1143" alt="image" src="https://github.com/user-attachments/assets/add6f970-8202-4edd-ba39-08b484fba9db" />
 
